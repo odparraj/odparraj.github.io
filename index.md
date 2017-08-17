@@ -1,6 +1,6 @@
-# Welcome to ODPARRAJ page
+# Hola Mundo
 
-Hola, mi nombre es Oscar Parra, soy estudiante de ingeniería de sistemas y computacion en la universidad nacional de colombia sede bogotá, actualmente curso IX semestre y trabajo en una compañia de diseño y desarrollo de páginas web y aplicaciones moviles llamada [MixedMedia Ltda](http://www.mixedmedia-ad.com) donde cumplí ya un año trabajando. Mi linea de orientación es el modelamiento y desarrollo de software.
+Mi nombre es Oscar Parra, soy estudiante de ingeniería de sistemas y computacion en la universidad nacional de colombia sede bogotá, actualmente curso IX semestre y trabajo en una compañia de diseño y desarrollo de páginas web y aplicaciones moviles llamada [MixedMedia Ltda](http://www.mixedmedia-ad.com) donde cumplí ya un año trabajando. Mi linea de orientación es el modelamiento y desarrollo de software.
 
 Anteriormente trabajé en la unidad de informática y comunicaciones de la facultad de ciencias económicas de la universidad por un tiempo cercano a dos años.
 
