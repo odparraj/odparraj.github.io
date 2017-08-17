@@ -1,5 +1,5 @@
 ## Welcome to ODPARRAJ page
-<p style="text-align: center">Nuevo Título</p>
+<h2 style="text-align: center">Nuevo Título</h2>
 
 You can use the [editor on GitHub](https://github.com/odparraj/odparraj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
