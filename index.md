@@ -1,38 +1,56 @@
-## Welcome to ODPARRAJ page
-<p style="text-align: center">Nuevo Título</p>
+# Welcome to ODPARRAJ page
 
-You can use the [editor on GitHub](https://github.com/odparraj/odparraj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hola, mi nombre es Oscar Parra, soy estudiante de ingeniería de sistemas y computacion en la universidad nacional de colombia sede bogotá, actualmente curso IX semestre y trabajo en una compañia de diseño y desarrollo de páginas web y aplicaciones moviles llamada [MixedMedia Ltda](http://www.mixedmedia-ad.com) donde cumplí ya un año trabajando. Mi linea de orientación es el modelamiento y desarrollo de software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Anteriormente trabajé en la unidad de informática y comunicaciones de la facultad de ciencias económicas de la universidad por un tiempo cercano a dos años.
 
-### Markdown
+Casi siempre me he desempeñado en el backend.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Conocimientos
 
-```markdown
-Syntax highlighted code block
+### Desarrollo web:
 
-# Header 1
-## Header 2
-### Header 3
+* Lenguajes de backend:
+	* PHP (Framework Laravel)
+	* Groovy (Framework Grails)
 
-- Bulleted
-- List
+* Lenguajes de Frontend:
+	* HTML5
+	* JavaScript (Jquery - Angular Js - Vue Js)
+	* CSS (Bootstrap - Foundation)
 
-1. Numbered
-2. List
+* Bases de Datos:
+	* PostgreSQL
+	* MySQL - MariaDB
 
-**Bold** and _Italic_ and `Code` text
+* Manejo intermedio de servidores:
+	* Apache
+	* Nginx
+	* Node.js
 
-[Link](url) and ![Image](src)
-```
+### Programación:
+* Otros lenguajes:
+	* Python
+ 	* C - C++
+	* Java
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Otras bases de datos:
+	* Oracle
+	* SQL Server
 
-### Jekyll Themes
+### Conocimientos generales:
+- Manejo de herramientas de versionamiento GIT y SVN.
+- Manejo de entornos de desarrollo en linux, windows y mac os. 
+- Configuración de entornos de desarrollo.
+- Manejo de diferentes paradigmas de programación. (estructurada, funcional, recursiva, orientada a objetos)
+- Diseño y modelado de bases de datos relacionales e híbridas.
+- Experiencia en el levantamiento de requerimientos, diseño e implementación de sistemas.
+- Implementación de patrones de desarrollo MVC.
+- Configuración de servicios en entornos linux como ssh, samba, ftp entre otros.
+- Manejo de ORM.
+- Manejo de apis.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/odparraj/odparraj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contacto
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Twitter [@osdario17](https://twitter.com/osdario17)
+Github [odparraj](https://github.com/odparraj)
