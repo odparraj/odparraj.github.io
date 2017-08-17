@@ -31,7 +31,7 @@ Casi siempre me he desempeñado en el backend.
 ### Programación:
 * Otros lenguajes:
 	* Python
- 	* C y C++
+ 	* C - C++
 	* Java
 
 * Otras bases de datos:
