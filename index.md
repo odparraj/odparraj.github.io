@@ -34,7 +34,7 @@ Casi siempre me he desempeñado en el backend.
  	* C - C++
 	* Java
 
-*Otras bases de datos:
+* Otras bases de datos:
 	* Oracle
 	* SQL Server
 
