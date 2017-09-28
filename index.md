@@ -54,3 +54,8 @@ Casi siempre me he desempeñado en el backend.
 
 Twitter [@osdario17](https://twitter.com/osdario17)
 Github [odparraj](https://github.com/odparraj)
+
+
+# Talleres
+
+### [Rendering - Algoritmo del pintor](https://odparraj.github.io/rendering/)
