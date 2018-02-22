@@ -53,7 +53,7 @@ Casi siempre me he desempeñado en el backend.
 - Manejo de ORM.
 - Manejo de apis.
 
-### Contacto
+## Contacto
 
 Twitter [@osdario17](https://twitter.com/osdario17)
 Github [odparraj](https://github.com/odparraj)
