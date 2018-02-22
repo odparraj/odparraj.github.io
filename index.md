@@ -1,5 +1,6 @@
 # Hola Mundo
-<img src="https://avatars3.githubusercontent.com/u/9358581?s=460&v=4" alt="Mountain View">
+<img src="https://avatars3.githubusercontent.com/u/9358581?s=460&v=4" alt="Mountain View" width="200">
+<br><br>
 Mi nombre es Oscar Parra, soy estudiante de ingeniería de sistemas y computacion en la universidad nacional de colombia sede bogotá, actualmente curso IX semestre y trabajo en una compañia de diseño y desarrollo de páginas web y aplicaciones moviles llamada <a href="http://www.mixedmedia-ad.com" target="_blank">MixedMedia Ltda</a> donde cumplí ya un año trabajando. Mi linea de orientación es el modelamiento y desarrollo de software.
 
 Anteriormente trabajé en la unidad de informática y comunicaciones de la facultad de ciencias económicas de la universidad por un tiempo cercano a dos años.
