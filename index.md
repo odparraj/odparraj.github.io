@@ -6,6 +6,9 @@ Anteriormente trabajé en la unidad de informática y comunicaciones de la facul
 
 Casi siempre me he desempeñado en el backend.
 
+## Proyectos
+* <a href="https://odparraj.github.io/kh/" target="_blank">Pagina web para KH Asesores</a>
+
 ## Conocimientos
 
 ### Desarrollo web:
