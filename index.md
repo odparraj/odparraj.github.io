@@ -21,7 +21,7 @@ Casi siempre me he desempeñado en el backend.
 
 * Bases de Datos:
 	* PostgreSQL
-	* MySQL - MariaDB<a href="http://example.com/" target="_blank">Hello, world!</a>
+	* MySQL - MariaDB
 
 * Manejo intermedio de servidores:
 	* Apache
