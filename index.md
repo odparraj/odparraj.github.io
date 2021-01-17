@@ -1,14 +1,7 @@
 # Hola Mundo
 <img src="https://avatars3.githubusercontent.com/u/9358581?s=460&v=4" alt="Mountain View" width="200">
 <br><br>
-Mi nombre es Oscar Parra, soy estudiante de ingeniería de sistemas y computacion en la universidad nacional de colombia sede bogotá, actualmente curso IX semestre y trabajo en una compañia de diseño y desarrollo de páginas web y aplicaciones moviles llamada <a href="http://www.mixedmedia-ad.com" target="_blank">MixedMedia Ltda</a> donde cumplí ya un año trabajando. Mi linea de orientación es el modelamiento y desarrollo de software.
-
-Anteriormente trabajé en la unidad de informática y comunicaciones de la facultad de ciencias económicas de la universidad por un tiempo cercano a dos años.
-
-Casi siempre me he desempeñado en el backend.
-
-## Proyectos
-* <a href="https://odparraj.github.io/kh/" target="_blank">Pagina web para KH Asesores</a>
+Ingeniero de sistemas y computación en la Universidad Nacional de Colombia, Sede Bogotá, orientado en línea de modelamiento y desarrollo de software. Joven con capacidad de adaptación y aprendizaje continuo, con facilidad para trabajar en equipo y habilidad de liderazgo, cuenta con valores de honestidad, respeto, responsabilidad y solidaridad. Amante de los desafíos y orientado siempre al cumplimiento con excelente desempeño de los objetivos trazados. 
 
 ## Conocimientos
 
@@ -44,17 +37,21 @@ Casi siempre me he desempeñado en el backend.
 
 ### Conocimientos generales:
 - Manejo de herramientas de versionamiento GIT y SVN.
-- Manejo de entornos de desarrollo en linux, windows y mac os. 
-- Configuración de entornos de desarrollo.
+- Manejo y configuración de entornos de desarrollo en linux, windows y mac os.
 - Manejo de diferentes paradigmas de programación. (estructurada, funcional, recursiva, orientada a objetos)
-- Diseño y modelado de bases de datos relacionales e híbridas.
-- Experiencia en el levantamiento de requerimientos, diseño e implementación de sistemas.
-- Implementación de patrones de desarrollo MVC.
-- Configuración de servicios en entornos linux como ssh, samba, ftp entre otros.
+- Diseño y/o modelado de bases de datos relacionales e híbridas.
 - Manejo de ORM.
-- Manejo de apis.
+- Experiencia en el levantamiento de requerimientos, diseño e implementación de sistemas.
+- Configuración de servicios en entornos linux como ssh, samba, ftp entre otros.
+- Desarrollo de software bajo principio SOLID
+- Uso e implementación de apis
+- Uso avanzado de composer (creación / mantenimiento de paquetes)
+- Desarrollo de sdks
+- Diseño e implementación de microservicios
+- Desarrollo de pruebas unitarias.
+
 
 ## Contacto
 
-Twitter [@osdario17](https://twitter.com/osdario17)
+Linkedin [Oscar Parra](https://www.linkedin.com/in/oscar-dario-parra-jimenez-50b586150)
 Github [odparraj](https://github.com/odparraj)
